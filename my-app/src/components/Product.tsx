@@ -18,7 +18,7 @@ function Product({courses}:ListOfCourses) {
               </div>
               
               <div className='bg-gradient-to-r from-[#07b92e] to-[#32FF0A] rounded-full w-12 h-12 cursor-pointer items-center justify-center flex'>
-                <LinkIcon className='h-6 w-6'><a href={course.link}></a></LinkIcon>
+              <a href={course.link}><LinkIcon className='h-6 w-6 cursor-pointer'></LinkIcon></a>
               </div>
             </div>
 
