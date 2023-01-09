@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MatheusReimerPortfolio/static/css/main.03d41f54.css",
+    "main.js": "/MatheusReimerPortfolio/static/js/main.dc123962.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MatheusReimerPortfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/dev.svg": "/MatheusReimerPortfolio/static/media/dev.897cc2d2e250d9868bb2a791e6333ef3.svg",
+    "static/media/blacklogo.png": "/MatheusReimerPortfolio/static/media/blacklogo.732bd4ed7f6fc8e2334e.png",
+    "index.html": "/MatheusReimerPortfolio/index.html",
+    "main.03d41f54.css.map": "/MatheusReimerPortfolio/static/css/main.03d41f54.css.map",
+    "main.dc123962.js.map": "/MatheusReimerPortfolio/static/js/main.dc123962.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MatheusReimerPortfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d41f54.css",
+    "static/js/main.dc123962.js"
+  ]
+}
